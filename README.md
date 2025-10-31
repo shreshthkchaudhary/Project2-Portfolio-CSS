@@ -1,58 +1,33 @@
-# Project2-Portfolio-CSS
-My Second website of "My Portfolio" where i have used multiple TAGS and there ATTRIBUTES to build it and CSS for Styling.
-# Personal Portfolio Website
+# My Portfolio Website
 
-This repository contains a personal portfolio website project created as part of Lab 1 and enhanced in Lab 2 with external CSS styling. It includes three main HTML pages: my_portfolio.html, profile.html, and feedback.html, all styled consistently with an external stylesheet.
+This is a personal portfolio website built using HTML and CSS to showcase my skills, projects, and contact information. It serves as an online professional profile to share with potential employers, collaborators, and clients.
 
-## About The Project
+## Features
 
-The project is a personal portfolio showcasing skills, projects, and contact information. The Lab 2 enhancement added a professional, consistent design using:
+- Responsive layout for easy viewing on desktop and mobile devices
+- Clean, modern design using custom CSS styles
+- Sections include About Me, Skills, Projects, and Contact
+- Interactive navigation menu for smooth scrolling between sections
+- Contact form with email integration to reach me directly
 
-- External CSS stylesheet for all styling
-- Custom color theme with HEX colors
-- Google Fonts (Poppins)
-- Styled navigation bar, skill tables, and buttons
-- Proper layout spacing with CSS box model (margin, padding, border)
-- Interactive buttons with hover effects
-- Visual separators using styled horizontal rules (hr)
-- Responsive and clean layout for readability
+## Technologies Used
 
-## Files in the Repository
+- HTML5 for markup structure
+- CSS3 for styling and responsive design
 
-- `my_portfolio.html` - Main portfolio homepage
-- `profile.html` - Personal profile with image and contact links
-- `feedback.html` - Feedback survey form page
-- `style.css` - External CSS stylesheet applied on all pages
+## Project Structure
 
-## Getting Started
-
-To view the portfolio website locally:
-
-1. Clone the repo:
-git clone: https://github.com/shreshthkchaudhary/My-Portfolio.git
-2. Open any of the `.html` files in your preferred browser to see the website.
+- `my_portfolio.html`: Main HTML file containing the content and structure of the website
+- `style.css`: Stylesheet file managing colors, fonts, layout, and responsiveness
 
 ## Usage
 
-This project demonstrates basic web development skills including HTML structuring and CSS styling. Feel free to customize the pages or styles to fit your own personal portfolio needs.
+1. Open `my_portfolio.html` in any modern web browser to view the portfolio
+2. Customize the content and styles as needed to personalize your own portfolio
+3. Host the files on any static website hosting platform such as GitHub Pages to share online
 
-## Built With
+## Future Enhancements
 
-- HTML5
-- CSS3 (External Stylesheet)
-- Google Fonts: Poppins
-
-## Author
-
-Shreshth Kumar Chaudhary  
-[GitHub Profile](https://github.com/shreshthkchaudhary)  
-[LinkedIn](https://www.linkedin.com/in/shreshth-k-chaudhary-4aa54b371)  
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Thank you for visiting my portfolio repository!
-
+- Add JavaScript to enhance interactivity and animations
+- Integrate a backend for handling contact form submissions more securely
+- Improve accessibility features for better usability
